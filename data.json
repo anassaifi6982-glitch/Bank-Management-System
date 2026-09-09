@@ -22,13 +22,6 @@
         "pin": 8218,
         "accountNo": 8937,
         "balance": 10000
-    },
-    {
-        "name": "Saifi",
-        "age": 22,
-        "email": "saifi@gimal.com",
-        "pin": "9756",
-        "accountNo": 242359,
-        "balance": 0
     }
+   
 ]
