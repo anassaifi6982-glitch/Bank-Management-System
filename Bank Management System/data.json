@@ -1,0 +1,27 @@
+[
+    {
+        "name": "Mohd Anas",
+        "age": 19,
+        "email": "anas@gmail.com",
+        "pin": 9756,
+        "accountNo": 9742,
+        "balance": 3000
+    },
+    {
+        "name": "Shuaib",
+        "age": 20,
+        "email": "shuaib@gmail.com",
+        "pin": 6850,
+        "accountNo": 8445,
+        "balance": 0
+    },
+    {
+        "name": "Zuhi",
+        "age": 19,
+        "email": "sanaya@gmail.com",
+        "pin": 8218,
+        "accountNo": 8937,
+        "balance": 10000
+    }
+   
+]
